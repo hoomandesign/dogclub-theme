@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+.headblue {
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+}
+
+.headblue p:first-child {
+    float: left;
+    color: aliceblue;
+    margin-left: 80px;
+    margin-top: 15px;
+}
+
+.headblue p:last-child {
+    float: right;
+    color: aliceblue;
+    margin-right: 280px;
+    margin-top: 15px;
+}
+
+.headblue img {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.dogclub {
+    background-color: powderblue;
+}
+
+.dogclub img {
+    float: left;
+    margin-left: 85px;
+
+}
+
+.dogclub p {
+
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 125px;
+    position: absolute;
+}
+
+.dogclub nav ol li {
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+.dogclub nav ol {
+    height: 50px;
+    margin-right: 220px;
+}
+
+.dogbg {
+    background-image: url('HomeDesktopSlide1.jpg');
+    background-position: center center;
+    width: 100%;
+    height: 355px;
+}
+
+.h1 {
+    text-align: center;
+    margin-top: 35px;
+}
+
+.pfree {
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.threeimg {
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.threeimg div {
+    float: left;
+    margin-left: 90px;
+}
+
+.threeimg div p {
+    text-align: center;
+    width: 300px;
+}
+
+.btn1 {
+    background-color: blue;
+    color: white;
+    display: block;
+    margin: 0 auto;
+    padding: 8px;
+    margin-top: 60px;
+}
+
+.gdbg {
+    background-image: url("HomeDesktophtml_row2.png");
+    background-size: cover;
+    background-position: center center;
+    width: 85%;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 60px;
+    position: relative;
+}
+
+.gdbg div {
+    margin-top: 70px;
+}
+
+.gdbg img {
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.gdbg h2 {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 90px;
+}
+
+.gdbg p {
+    clear: both;
+    margin-left: 60px;
+}
+
+.gdbg button {
+    color: white;
+    background-color: blue;
+    padding: 8px;
+    margin-top: 10px;
+    margin-left: 60px;
+    border: 0;
+}
+
+.blueback {
+    background-color: blue;
+    color: white;
+    width: 85%;
+    height: 230px;
+    margin: 0 auto;
+    margin-top: 120px;
+
+}
+
+.blueback h1 {
+    margin-left: 500px;
+    padding-top: 30px;
+    color: white;
+}
+
+.blueback img {
+    float: left;
+}
+
+.blueback div {
+    width: 500px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.blueback p {
+    clear: both;
+    margin-left: 60px;
+}
+
+.grayback {
+    background-color: gray;
+    color: white;
+    width: 85%;
+    height: 430px;
+    margin: 0 auto;
+    margin-top: 120px;
+
+}
+
+.grayback h1 {
+    margin-left: 500px;
+    padding-top: 30px;
+    color: white;
+}
+
+.grayback img {
+    float: left;
+}
+
+.grayback div {
+    width: 480px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.grayback p {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+footer{
+    background-color: cornflowerblue; 
+    margin-top: 60px;
+    height: 250px;
+}
+footer div{
+   float:left;
+    height: 200px;
+    margin-left: 180px;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+footer div ol li{
+    margin-top: 20px;
+}
