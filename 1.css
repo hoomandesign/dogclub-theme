@@ -10,7 +10,7 @@ li {
 .headblue {
     width: 100%;
     height: 50px;
-    background-color: blue;
+    background-color: red;
 }
 
 .headblue p:first-child {
